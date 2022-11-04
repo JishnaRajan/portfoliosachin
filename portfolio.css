@@ -1,0 +1,56 @@
+body{
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFjLIFZIv1z5dELUqm9aDFcdvBxiaB1g0ug&usqp=CAU');
+    text-align:center;
+    background-size: cover;
+    margin: 0;
+}
+.menu{
+    position: fixed;
+    background-color: rgb(13, 82, 82);
+    width: 100%;
+    margin-top: 0px;
+    height: 50px;
+}
+.links{
+ display: inline;
+ font-size: 30px;
+ padding-left: 30px;
+ padding-right: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px rgb(197, 87, 87);
+}
+a:hover{
+    font-size: 35px;
+    text-decoration: underline;
+}
+html{
+    scroll-behavior: smooth;
+}
+.profile{
+    margin-top: 100px;
+    width: 500px;
+}
+#name{
+    font-family: 'Fasthand', cursive;
+    font-size: 45px;
+}
+#welcome{
+    background: linear-gradient(to right,aqua,sky rgb(0, 255, 21));
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.contact_1 a{
+    text-shadow: none;
+    color: black;
+}
+.contact_1 h3{
+    display: inline;
+}
